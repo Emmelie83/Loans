@@ -83,7 +83,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<image>
-						<name>emmeliej/${project.artifactId}:4s</name>
+						<name>emmeliej/${project.artifactId}:s4</name>
 					</image>
 				</configuration>
 			</plugin>
